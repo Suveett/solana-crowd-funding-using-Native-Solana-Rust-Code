@@ -1,0 +1,10 @@
+/Users/aadyakalra/Documents/RustLang Course/solanaProjects/solana-crowd-funding/program/target/debug/deps/xattr-f57c97b3004819cd.rmeta: /Users/aadyakalra/.cargo/registry/src/github.com-1ecc6299db9ec823/xattr-0.2.2/src/lib.rs /Users/aadyakalra/.cargo/registry/src/github.com-1ecc6299db9ec823/xattr-0.2.2/src/error.rs /Users/aadyakalra/.cargo/registry/src/github.com-1ecc6299db9ec823/xattr-0.2.2/src/sys/mod.rs /Users/aadyakalra/.cargo/registry/src/github.com-1ecc6299db9ec823/xattr-0.2.2/src/util.rs /Users/aadyakalra/.cargo/registry/src/github.com-1ecc6299db9ec823/xattr-0.2.2/src/sys/linux_macos/mod.rs /Users/aadyakalra/.cargo/registry/src/github.com-1ecc6299db9ec823/xattr-0.2.2/src/sys/linux_macos/macos.rs
+
+/Users/aadyakalra/Documents/RustLang Course/solanaProjects/solana-crowd-funding/program/target/debug/deps/xattr-f57c97b3004819cd.d: /Users/aadyakalra/.cargo/registry/src/github.com-1ecc6299db9ec823/xattr-0.2.2/src/lib.rs /Users/aadyakalra/.cargo/registry/src/github.com-1ecc6299db9ec823/xattr-0.2.2/src/error.rs /Users/aadyakalra/.cargo/registry/src/github.com-1ecc6299db9ec823/xattr-0.2.2/src/sys/mod.rs /Users/aadyakalra/.cargo/registry/src/github.com-1ecc6299db9ec823/xattr-0.2.2/src/util.rs /Users/aadyakalra/.cargo/registry/src/github.com-1ecc6299db9ec823/xattr-0.2.2/src/sys/linux_macos/mod.rs /Users/aadyakalra/.cargo/registry/src/github.com-1ecc6299db9ec823/xattr-0.2.2/src/sys/linux_macos/macos.rs
+
+/Users/aadyakalra/.cargo/registry/src/github.com-1ecc6299db9ec823/xattr-0.2.2/src/lib.rs:
+/Users/aadyakalra/.cargo/registry/src/github.com-1ecc6299db9ec823/xattr-0.2.2/src/error.rs:
+/Users/aadyakalra/.cargo/registry/src/github.com-1ecc6299db9ec823/xattr-0.2.2/src/sys/mod.rs:
+/Users/aadyakalra/.cargo/registry/src/github.com-1ecc6299db9ec823/xattr-0.2.2/src/util.rs:
+/Users/aadyakalra/.cargo/registry/src/github.com-1ecc6299db9ec823/xattr-0.2.2/src/sys/linux_macos/mod.rs:
+/Users/aadyakalra/.cargo/registry/src/github.com-1ecc6299db9ec823/xattr-0.2.2/src/sys/linux_macos/macos.rs:

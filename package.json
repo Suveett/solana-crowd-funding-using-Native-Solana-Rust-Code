@@ -3,9 +3,13 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@project-serum/anchor": "^0.19.1-beta.1",
+    "@project-serum/sol-wallet-adapter": "^0.2.6",
+    "@solana/web3.js": "^1.31.0",
     "@testing-library/jest-dom": "^5.16.1",
     "@testing-library/react": "^12.1.2",
     "@testing-library/user-event": "^13.5.0",
+    "borsh": "^0.7.0",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
     "react-scripts": "5.0.0",
